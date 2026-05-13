@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Logic Pro for macOS script with Logic Pro for macOS advanced Script: auto-color-grading & batch-rendering. Featuring auto-color-grading and batch-rendering, it's
 
 
 
